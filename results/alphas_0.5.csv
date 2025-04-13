@@ -1,0 +1,17 @@
+audio_path,method,lev_distance,time_sec
+examples/sample1.wav,beam_lm,9,2.205129623413086
+examples/sample1.wav,beam_lm_rescore,10,1.6500930786132812
+examples/sample2.wav,beam_lm,8,3.0634751319885254
+examples/sample2.wav,beam_lm_rescore,5,2.502950668334961
+examples/sample3.wav,beam_lm,8,1.745453119277954
+examples/sample3.wav,beam_lm_rescore,5,1.330075979232788
+examples/sample4.wav,beam_lm,9,2.436886787414551
+examples/sample4.wav,beam_lm_rescore,8,2.1869943141937256
+examples/sample5.wav,beam_lm,1,1.8896925449371336
+examples/sample5.wav,beam_lm_rescore,2,1.4769670963287354
+examples/sample6.wav,beam_lm,14,0.3774127960205078
+examples/sample6.wav,beam_lm_rescore,16,0.3195672035217285
+examples/sample7.wav,beam_lm,19,0.4192447662353515
+examples/sample7.wav,beam_lm_rescore,19,0.3425543308258056
+examples/sample8.wav,beam_lm,15,0.7581250667572021
+examples/sample8.wav,beam_lm_rescore,15,0.4484238624572754
