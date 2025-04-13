@@ -1,3 +1,7 @@
+# Solution report:
+
+[here](https://github.com/BurykinaA/gen-speech-hw2/blob/main/sheech_hw2.pdf)
+
 # Assignment 2. ASR decoding - [20 pts]
 
 In this exercise you are required to implement **4 ASR decoding methods** for a pre-trained CTC acoustic model [wav2vec2](https://huggingface.co/docs/transformers/en/model_doc/wav2vec2) for Speech Recognition in English:
